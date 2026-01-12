@@ -170,8 +170,8 @@ body {
 }
 
 .btn-danger {
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #c32424;
+    color: #ffffff;
     border: 1px solid #d0d0d0;
 }
 
@@ -427,7 +427,7 @@ form .btn-danger {
     background-color: #ffffff;
     color: #000000;
     border: 1px solid #d0d0d0;
-    width: auto;
+    width: 300px;
     display: inline-block;
     margin-left: 10px;
 }
